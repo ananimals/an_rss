@@ -1,2 +1,7 @@
 # an_rss
-Room Specific Setting for plug.dj/approachingnirvana
+Room Specific Settings for plug.dj/approachingnirvana
+
+Current themes:
+
+>> Illusions blue
+>> Nebula green
