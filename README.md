@@ -3,5 +3,5 @@ Room Specific Settings for plug.dj/approachingnirvana
 
 Current themes:
 
-> Illusions blue
-> Nebula green
+Illusions blue
+Nebula green
